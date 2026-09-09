@@ -1,10 +1,10 @@
-# Security Policy — Issue Hierarchy Tree
+# Security Policy - Issue Hierarchy Tree
 
-**Security contact:** [PLACEHOLDER — security/support email]
+**Security contact:**bim.eleck@gmail.com**
 
 ## Reporting a vulnerability
 
-If you believe you've found a security vulnerability in this App, please email **[PLACEHOLDER — security email]** with details. We'll acknowledge reports within [PLACEHOLDER — e.g., 2 business days] and aim to resolve confirmed issues promptly. Please do not open public GitHub issues for security reports.
+If you believe you've found a security vulnerability in this App, please email **bim.eleck@gmail.com** with details. We'll acknowledge reports within 2 business days and aim to resolve confirmed issues promptly. Please do not open public GitHub issues for security reports.
 
 ## How the App is built
 
@@ -20,4 +20,4 @@ This App is eligible for Atlassian's [Runs on Atlassian](https://www.atlassian.c
 
 ## Dependencies
 
-The App's dependencies are kept minimal and are audited/updated as part of normal maintenance. [PLACEHOLDER — mention here if you run `npm audit` / Dependabot / similar as part of your process, once you set one up.]
+The App's dependencies are kept minimal and are reviewed periodically as part of routine maintenance.
