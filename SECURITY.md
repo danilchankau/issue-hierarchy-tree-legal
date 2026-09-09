@@ -8,7 +8,7 @@ If you believe you've found a security vulnerability in this App, please email *
 
 ## How the App is built
 
-- **Platform**: [Atlassian Forge](https://developer.atlassian.com/platform/forge/) — the App's code runs entirely on Atlassian's own infrastructure, not on servers we operate.
+- **Platform**: [Atlassian Forge](https://developer.atlassian.com/platform/forge/) - the App's code runs entirely on Atlassian's own infrastructure, not on servers we operate.
 - **Permission model**: every Jira API call the App makes uses `asUser()`, meaning results are scoped to the permissions of the person currently viewing the issue. The App can never show a user Jira data they don't already have access to.
 - **Scopes**: the App requests the minimum scope needed to read issue hierarchy, status, and links (`read:jira-work`). It cannot write, delete, or modify any Jira data.
 - **No data storage**: the App does not persist any Jira data (no database, no Forge Storage). See [PRIVACY.md](./PRIVACY.md) for details.
