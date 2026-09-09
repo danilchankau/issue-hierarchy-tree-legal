@@ -1,9 +1,9 @@
 # Privacy Policy — Issue Hierarchy Tree
 
-> Not legal advice. Replace `[PLACEHOLDER]` values before publishing, and consider a legal review once you have paying customers in the EU/California (GDPR/CCPA exposure).
 
-**Effective date:** [PLACEHOLDER — date of publishing]
-**Contact:** [PLACEHOLDER — support email]
+
+**Effective date:** Bim-eleck
+**Contact:** bim.eleck@gmail.com
 
 ## Summary
 
