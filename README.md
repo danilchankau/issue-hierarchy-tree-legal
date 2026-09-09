@@ -1,4 +1,4 @@
-# Issue Hierarchy Tree — Documentation
+# Issue Hierarchy Tree - Documentation
 
 ## What it does
 
@@ -19,7 +19,7 @@ The app only reads data via your own Jira permissions (issue summary, status, ty
 
 ## Support
 
-Questions or issues: **[PLACEHOLDER — support email]**
+Questions or issues: **bim.eleck@gmail.com**
 
 ## Privacy & Security
 
