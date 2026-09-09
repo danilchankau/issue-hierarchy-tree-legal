@@ -2,7 +2,7 @@
 
 
 
-**Effective date:** Bim-eleck
+**Effective date:** 10.09.2026
 **Contact:** bim.eleck@gmail.com
 
 ## Summary
