@@ -1,6 +1,4 @@
-# Privacy Policy — Issue Hierarchy Tree
-
-
+# Privacy Policy - Issue Hierarchy Tree
 
 **Effective date:** 10.09.2026
 
@@ -29,7 +27,7 @@ The App does not access comments, attachments, custom fields beyond the above, o
 
 ## GDPR / CCPA
 
-Because the App does not collect, store, or retain personal data outside of Atlassian's own systems, IE Andrei Danilchankau does not act as a data controller under GDPR or as a business/service provider under CCPA with respect to End-User Data processed through the App. Atlassian's own data processing terms govern data hosted on the Jira platform itself — see [Atlassian's Privacy Policy](https://www.atlassian.com/legal/privacy-policy).
+Because the App does not collect, store, or retain personal data outside of Atlassian's own systems, **IE Andrei Danilchankau** does not act as a data controller under GDPR or as a business/service provider under CCPA with respect to End-User Data processed through the App. Atlassian's own data processing terms govern data hosted on the Jira platform itself — see [Atlassian's Privacy Policy](https://www.atlassian.com/legal/privacy-policy).
 
 ## Changes to this policy
 
