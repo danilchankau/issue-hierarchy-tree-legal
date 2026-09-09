@@ -10,7 +10,7 @@ Issue Hierarchy Tree ("the App") does not process or store End-User Data outside
 
 ## What the App accesses
 
-When you open the App's panel on a Jira issue, it reads the following — using **your own logged-in Jira permissions**, so the App never sees more than you could already see in Jira:
+When you open the App's panel on a Jira issue, it reads the following - using **your own logged-in Jira permissions**, so the App never sees more than you could already see in Jira:
 
 - Issue key, summary, status, and issue type
 - Parent/child hierarchy relationships
