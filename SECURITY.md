@@ -1,6 +1,6 @@
 # Security Policy - Issue Hierarchy Tree
 
-**Security contact: **bim.eleck@gmail.com**
+**Security contact:** **bim.eleck@gmail.com**
 
 ## Reporting a vulnerability
 
